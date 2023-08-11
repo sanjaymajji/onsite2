@@ -1,0 +1,14 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+img{
+    width: calc(100% - 10px); /* Adjust width based on your design */
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+
+  
